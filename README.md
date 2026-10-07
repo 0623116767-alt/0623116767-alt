@@ -1,2 +1,212 @@
 # -0623116767-alt
 My GitHub profile and coding projects
+<div align="center">
+
+# 👋 HEY, I'M TIMUR!
+
+### 💻 Student • 🚀 Future Developer • 🎮 Gamer • 🤖 Tech Explorer
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+## 🧑‍💻 ABOUT ME
+
+```yaml
+Name: Timur
+Role: Student & Future Developer
+Learning: Computer Science
+Interests: Technology, Coding, Gaming, Cars, AI
+Goal: Become a great developer 🚀
+```
+
+💻 I enjoy learning about computers and technology.  
+🚀 I'm building my skills one project at a time.  
+🧠 I like solving problems and learning new things.  
+🔥 My goal is to keep improving every day.
+
+---
+
+## ⚡ MY TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,python"/>
+
+</div>
+
+### 🔧 Tools I Use
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 CURRENTLY LEARNING
+
+| Skill | Progress |
+|---|---|
+| 💻 Computer Science | █████████░ 90% |
+| 🐙 Git & GitHub | ████████░░ 80% |
+| 🌐 Web Development | ███████░░░ 70% |
+| 🐍 Programming | ██████░░░░ 60% |
+| 🤖 AI & Technology | █████░░░░░ 50% |
+
+---
+
+## 🎯 MY GOALS
+
+🎯 Learn more programming  
+🌐 Build awesome websites  
+🚀 Create useful projects  
+🤖 Explore Artificial Intelligence  
+💻 Become a better developer  
+⭐ Build a strong GitHub portfolio  
+
+---
+
+## 🔥 FEATURED PROJECTS
+
+### 🌐 Web Projects
+Building websites and experimenting with HTML & CSS.
+
+### 💻 Coding Projects
+Creating small projects to practice programming.
+
+### 🎮 Future Game Projects
+Exploring how games and interactive experiences are created.
+
+### 🤖 Future AI Projects
+Learning how artificial intelligence and modern technology work.
+
+> 🚧 More projects coming soon...
+
+---
+
+## 🎮 MY INTERESTS
+
+<div align="center">
+
+🎮 **Gaming** &nbsp; • &nbsp;
+💻 **Computers** &nbsp; • &nbsp;
+🚗 **Cars** &nbsp; • &nbsp;
+🚀 **Space** &nbsp; • &nbsp;
+🤖 **AI** &nbsp; • &nbsp;
+🎨 **Design** &nbsp; • &nbsp;
+🎵 **Music**
+
+</div>
+
+---
+
+## 📊 GITHUB STATS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GITHUB STREAK
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 MY CONTRIBUTIONS
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+## 💡 MY MINDSET
+
+```text
+        LEARN 📚
+           ↓
+       PRACTICE 💻
+           ↓
+        BUILD 🚀
+           ↓
+      MAKE MISTAKES 🧠
+           ↓
+       IMPROVE 🔥
+           ↓
+       BUILD MORE ⭐
+```
+
+### 🚀 My Motto
+
+> **"Learn. Build. Improve. Repeat."**
+
+---
+
+## 🏆 WHAT I WANT TO BUILD
+
+```text
+🌐 Websites
+💻 Applications
+🎮 Games
+🤖 AI Projects
+📱 Useful Tools
+🚀 Creative Projects
+```
+
+---
+
+## 🌎 MY JOURNEY
+
+```text
+2026
+ │
+ ├── 📚 Learning
+ ├── 💻 Coding
+ ├── 🐙 GitHub
+ ├── 🌐 Web Development
+ ├── 🚀 Projects
+ └── ⭐ Growing
+```
+
+Every project is another step forward. 🚀
+
+---
+
+## 💬 A LITTLE MORE ABOUT ME
+
+⭐ I like technology  
+🔥 I enjoy challenging myself  
+💡 I like learning by doing  
+🚀 I want to create things I'm proud of  
+🧠 I believe mistakes are part of learning  
+
+---
+
+<div align="center">
+
+# ⭐ THANKS FOR VISITING!
+
+### 💻 Code • 🚀 Create • 🔥 Improve
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+
+</div>
