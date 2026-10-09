@@ -37,7 +37,7 @@ Goal: Become a great developer 🚀
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,python"/>
+
 
 </div>
 
